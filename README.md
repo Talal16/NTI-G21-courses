@@ -1,1 +1,1 @@
-# NTI-G21-courses
+# NTI-G21-project
